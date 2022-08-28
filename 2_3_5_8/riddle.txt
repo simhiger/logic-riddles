@@ -1,0 +1,6 @@
+Using 4 math operations 
+Obtain 16 using 2,3,5,8.
+All numbers must be used.
+Each number must be used once.
+You can put parentheses anywhere.
+Those are numbers, not digits, for example you cannot combine 2 with 3 to make 23.
